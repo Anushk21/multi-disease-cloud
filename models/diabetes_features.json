@@ -1,0 +1,12 @@
+{
+  "feature_order": [
+    "pregnancies",
+    "glucose",
+    "bloodpressure",
+    "skinthickness",
+    "insulin",
+    "bmi",
+    "diabetespedigreefunction",
+    "age"
+  ]
+}

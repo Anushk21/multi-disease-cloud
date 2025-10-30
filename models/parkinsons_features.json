@@ -1,0 +1,26 @@
+{
+  "feature_order": [
+    "mdvp:fo(hz)",
+    "mdvp:fhi(hz)",
+    "mdvp:flo(hz)",
+    "mdvp:jitter(%)",
+    "mdvp:jitter(abs)",
+    "mdvp:rap",
+    "mdvp:ppq",
+    "jitter:ddp",
+    "mdvp:shimmer",
+    "mdvp:shimmer(db)",
+    "shimmer:apq3",
+    "shimmer:apq5",
+    "mdvp:apq",
+    "shimmer:dda",
+    "nhr",
+    "hnr",
+    "rpde",
+    "dfa",
+    "spread1",
+    "spread2",
+    "d2",
+    "ppe"
+  ]
+}
